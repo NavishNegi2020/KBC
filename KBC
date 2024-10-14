@@ -1,0 +1,124 @@
+# Kaun Banega Ka CrorePati
+# In this game, I have used input and if Else statements.
+
+print("Q1. What is the capital of India?")
+print("1. Mumbai")
+print("2. Lucknow")
+print("3. Chennai")
+print("4. Delhi")
+a = int(input("Enter your option:"))
+if a==4:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q2. Which animal is known as the 'ship of deserts'?")
+print("1. Cat")
+print("2. Tiger")
+print("3. Camel")
+print("4. Elephant")
+a = int(input("Enter your option:"))
+if a==3:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q3. How many days are in a week?")
+print("1. 8")
+print("2. 9")
+print("3. 6")
+print("4. 7")
+a = int(input("Enter your option:"))
+if a==4:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q4. Rainbow consist of how many colours?")
+print("1. 5")
+print("2. 7")
+print("3. 8")
+print("4. 9")
+a = int(input("Enter your option:"))
+if a==2:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q5.Baby frog is known as ......... ?")
+print("1. Cub")
+print("2. Larva")
+print("3. Pupa")
+print("4. Tadpole")
+a = int(input("Enter your option:"))
+if a==4:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q6. Name the national bird of India?")
+print("1. Peocock")
+print("2. Sparrow")
+print("3. Eagle")
+print("4. Ostrich")
+a = int(input("Enter your option:"))
+if a==1:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q7. Name the national fruit of India?")
+print("1. Mango")
+print("2. Banana")
+print("3. Apple")
+print("4. Watermelon")
+a = int(input("Enter your option:"))
+if a==1:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q8. What is the national song of India?")
+print("1. Vande Matram")
+print("2. Jana Gana Mana")
+print("3. Hum Dil De Chuke Sanam")
+print("4. Jai Hind")
+a = int(input("Enter your option:"))
+if a==1:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q9. Who is the first president of India?")
+print("1. Jawaher Lal Nehru")
+print("2. Mahatma Gandhi")
+print("3. Dr. Rajendra Prasad")
+print("4. Rahul Gandhi")
+a = int(input("Enter your option:"))
+if a==3:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+
+print("Q10. What is the name of the ancient civilisation that is located at Indus valley?")
+print("1. Mughal civilisation")
+print("2. Harrap civilisation")
+print("3. British civilisation")
+print("4. Persian civilisation")
+a = int(input("Enter your option:"))
+if a==2:
+  print("Correct Answer\n")
+else:
+  print("Wrong Answer\n")
+
+print("GAME ENDS")
+print("THANK YOU FOR PLAYING KBC")
